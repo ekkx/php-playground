@@ -1,0 +1,4 @@
+{
+  "editor.defaultFormatter": "bmewburn.vscode-intelephense-client",
+  "editor.formatOnSave": true
+}
