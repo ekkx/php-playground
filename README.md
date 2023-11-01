@@ -12,6 +12,10 @@
 
 <img src="https://github.com/qvco/php-playground/assets/77382767/b38f5d58-c200-4ba5-bf21-2145a148f9dd" width=600px>
 
+何も入力しないとエラー表示がでる
+
+<img src="https://github.com/qvco/php-playground/assets/77382767/da859d9e-fea3-4be1-a471-476720327d39" width=600px>
+
 チェックマーク
 
 <img src="https://github.com/qvco/php-playground/assets/77382767/bb6ca4c4-e02e-4b2f-b786-8f74971ee58a" width=600px>
